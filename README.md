@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=10B981&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Kautsar+👋;Web+Developer+%7C+Logo+Designer;Teknik+Informatika+Student" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400" alt="3D Workspace">
   <p><b>Bridging the gap between clean code and beautiful aesthetics.</b></p>
 </div>
 
