@@ -6,23 +6,19 @@
 <br>
 
 <div align="center">
-  <h2>Hi, I'm <i>Kautsar Qaris Septyawan</i> 👋</h2>
+  <h2>Hi, I'm <i>KDev</i> 👋</h2>
   <p><b>Web Developer | Brand & Logo Designer</b></p>
-</div>
-
-<br>
-
-<div align="center">
+  
   <!-- Social Media Links -->
-  <a href="LINK_FACEBOOK_DISINI" target="_blank">
+  <a href="https://www.facebook.com/share/1D6x2uTiZN/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="45" alt="Facebook">
   </a>
   &nbsp;&nbsp;
-  <a href="LINK_INSTAGRAM_DISINI" target="_blank">
+  <a href="https://www.instagram.com/ktsrqs_?igsh=cHB2eXhhcnF6NHo4&igsi=cHB2eXhhcnF6NHo4" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45" alt="Instagram">
   </a>
   &nbsp;&nbsp;
-  <a href="LINK_LINKEDIN_DISINI" target="_blank">
+  <a href="www.linkedin.com/in/KtsrqsDev" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45" alt="LinkedIn">
   </a>
 </div>
@@ -31,9 +27,9 @@
 
 ### 👨‍💻 About Me
 
-Saya adalah mahasiswa Teknik Informatika di STMIK Pontianak yang menikmati persimpangan antara meracik logika sistem web dan menggambar identitas visual untuk sebuah *brand*. 
+I am a recent Information Technology graduate who is currently very passionate about coding for web development and designing logos. I enjoy the process of building robust web architectures while crafting clean and memorable brand identities.
 
-*   🔭 **Current Focus:** Saat ini sedang fokus penuh untuk mempelajari dan mengembangkan seluruh *tech stack* saya dari tahap dasar hingga mahir.
+*   🔭 **Current Focus:** Fully focused on learning and mastering my entire tech stack from the ground up to an advanced level.
 
 ---
 
@@ -67,22 +63,11 @@ Saya adalah mahasiswa Teknik Informatika di STMIK Pontianak yang menikmati persi
 
 ---
 
-### 🎨 The Canvas: Logo & Identity
+### ❇️ Logo & Identity
 
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr>
-    <td align="center" style="border: none;"><b>Concept Alpha</b></td>
-    <td align="center" style="border: none;"><b>Concept Beta</b></td>
-  </tr>
-  <tr>
-    <td style="border: none;">
-      <img src="https://placehold.co/400x300/161b22/10B981?text=Upload+Logo+1\n(Drag+%26+Drop+Here)" width="100%" alt="Logo 1">
-    </td>
-    <td style="border: none;">
-      <img src="https://placehold.co/400x300/161b22/3B82F6?text=Upload+Logo+2\n(Drag+%26+Drop+Here)" width="100%" alt="Logo 2">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github.com/ktsrqsdev/ktsrqsdev/blob/main/logo-white.png" width="30%" style="max-width: 500px;" alt="KDev Logo">
+</div>
 
 <br>
 
