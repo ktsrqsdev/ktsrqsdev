@@ -10,6 +10,23 @@
   <p><b>Web Developer | Brand & Logo Designer</b></p>
 </div>
 
+<br>
+
+<div align="center">
+  <!-- Social Media Links -->
+  <a href="LINK_FACEBOOK_DISINI" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="45" alt="Facebook">
+  </a>
+  &nbsp;&nbsp;
+  <a href="LINK_INSTAGRAM_DISINI" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45" alt="Instagram">
+  </a>
+  &nbsp;&nbsp;
+  <a href="LINK_LINKEDIN_DISINI" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="45" alt="LinkedIn">
+  </a>
+</div>
+
 ---
 
 ### 👨‍💻 About Me
@@ -67,16 +84,16 @@ Saya adalah mahasiswa Teknik Informatika di STMIK Pontianak yang menikmati persi
   </tr>
 </table>
 
+<br>
+
+<div align="center">
+  <i>"Good design is obvious. Great design is transparent."</i>
+</div>
+
 ---
 
 ### 📈 GitHub Metrics
 
 <div align="center">
   <img src="./github-metrics.svg" alt="GitHub Metrics">
-</div>
-
-<br>
-
-<div align="center">
-  <i>"Good design is obvious. Great design is transparent."</i>
 </div>
