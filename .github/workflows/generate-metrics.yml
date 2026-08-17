@@ -1,0 +1,33 @@
+name: Generate Metrics
+
+on:
+  # Otomatis berjalan setiap jam 00:00 (Tengah Malam)
+  schedule: [{cron: "0 0 * * *"}]
+  # Mengizinkan eksekusi manual via tombol di GitHub Actions
+  workflow_dispatch:
+  # Berjalan setiap kali ada perubahan/push ke branch main
+  push: {branches: ["main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate github-metrics.svg
+        uses: lowlighter/metrics@latest
+        with:
+          # Menyimpan file sebagai SVG
+          filename: github-metrics.svg
+          # Membaca secret token yang sudah kita buat
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Konfigurasi Tampilan
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Jakarta
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          
+          # Melakukan commit langsung ke repositori
+          output_action: commit
+          committer_message: "chore: update github metrics"
