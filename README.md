@@ -1,44 +1,51 @@
 <div align="center">
-  <!-- Gambar Animasi Meja Kerja (Bisa diganti dengan GIF buatanmu sendiri nanti) -->
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius: 15px; max-width: 600px;" alt="Aesthetic 3D Workspace">
+  <!-- Ganti link gambar di bawah ini dengan link GIF buatanmu sendiri nanti -->
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" style="border-radius: 15px; max-width: 600px;" alt="Aesthetic Dark Workspace">
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=10B981&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kautsar+👋;Fullstack+Web+Developer;Brand+%26+Logo+Designer;Informatics+Engineering+Student" alt="Typing SVG" />
-</div>
+<br>
 
 <div align="center">
-  <i>Membangun arsitektur kode yang solid dengan sentuhan estetika visual yang tajam.</i>
+  <h2>Hi, I'm <i>Kautsar Qaris Septyawan</i> 👋</h2>
+  <p><b>Web Developer | Brand & Logo Designer</b></p>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-Saya adalah mahasiswa Teknik Informatika (Fokus Web Technology) di STMIK Pontianak yang menikmati dua dunia: meracik logika sistem *backend* dan menggambar identitas visual untuk sebuah *brand*. 
+Saya adalah mahasiswa Teknik Informatika di STMIK Pontianak yang menikmati persimpangan antara meracik logika sistem web dan menggambar identitas visual untuk sebuah *brand*. 
 
-*   🔭 **Current Focus:** Mengembangkan *Progressive Web App* (PWA) dan sistem WebGIS yang responsif.
-*   ⚙️ **Dev Arsenal:** Menulis baris kode dan mengonfigurasi VPS menggunakan mesin andalan Acer Nitro 5, dengan pengujian *mobile* via Poco M3 Pro 5G.
-*   🎨 **Creative Outlet:** Merancang desain logo dan antarmuka pengguna yang bersih dan minimalis.
-*   🕹️ **AFK Status:** Menentukan strategi rotasi di Valorant dan PUBG Mobile, atau bereksperimen meracik komposisi lagu & lirik menggunakan Suno AI.
+*   🔭 **Current Focus:** Saat ini sedang fokus penuh untuk mempelajari dan mengembangkan seluruh *tech stack* saya dari tahap dasar hingga mahir.
 
 ---
 
 ### 🛠️ Tech & Design Arsenal
 
-**Architecture & Server**
+**Proficient**
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</p>
+
+**Intermediate**
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</p>
+
+**Beginner (Currently Learning & Focusing On)**
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
 
 **Design & Prototyping**
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
-  <img src="https://img.shields.io/badge/CorelDraw-00A94F?style=for-the-badge&logo=coreldraw&logoColor=white" alt="CorelDraw"/>
 </p>
 
 ---
@@ -65,8 +72,7 @@ Saya adalah mahasiswa Teknik Informatika (Fokus Web Technology) di STMIK Pontian
 ### 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ktsrqsdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=10B981" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ktsrqsdev&theme=tokyonight&hide_border=true&background=0D1117&ring=10B981&fire=10B981&currStreakNum=white" width="48%" alt="GitHub Streak" />
+  <img src="./github-metrics.svg" alt="GitHub Metrics">
 </div>
 
 <br>
