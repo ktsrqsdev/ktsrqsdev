@@ -1,11 +1,8 @@
 name: Generate Metrics
 
 on:
-  # Otomatis berjalan setiap jam 00:00 (Tengah Malam)
   schedule: [{cron: "0 0 * * *"}]
-  # Mengizinkan eksekusi manual via tombol di GitHub Actions
   workflow_dispatch:
-  # Berjalan setiap kali ada perubahan/push ke branch main
   push: {branches: ["main"]}
 
 jobs:
@@ -17,17 +14,23 @@ jobs:
       - name: Generate github-metrics.svg
         uses: lowlighter/metrics@latest
         with:
-          # Menyimpan file sebagai SVG
           filename: github-metrics.svg
-          # Membaca secret token yang sudah kita buat
           token: ${{ secrets.METRICS_TOKEN }}
           
-          # Konfigurasi Tampilan
-          base: header, activity, community, repositories, metadata
+          # Pengaturan Zona Waktu
           config_timezone: Asia/Jakarta
+          
+          # Solusi agar tidak terpotong (menambah ruang bawah)
+          config_padding: 0, 8 + 12%
+          
+          # Menampilkan data inti dan menyembunyikan metrik bernilai 0 / NaN
+          base: header, activity, community
+          base_indepth: yes
+          
+          # Kalender Isometrik 3D
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           
-          # Melakukan commit langsung ke repositori
+          # Commit otomatis
           output_action: commit
-          committer_message: "chore: update github metrics"
+          committer_message: "chore: fix and update metrics layout"
