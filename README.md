@@ -6,7 +6,7 @@
 <br>
 
 <div align="center">
-  <h3>Hi, I'm <i>KDev</i> 👋</h3>
+  <h2>Hi, I'm <i>KDev</i>.</h2>
   <p><b>Web Developer</b></p>
   
   <!-- Social Media Links -->
