@@ -10,12 +10,8 @@
   <p><b>Web Developer | Brand & Logo Designer</b></p>
   
   <!-- Social Media Links -->
-  <a href="https://www.facebook.com/share/1D6x2uTiZN/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="45" alt="Facebook">
-  </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/ktsrqs_?igsh=cHB2eXhhcnF6NHo4&igsi=cHB2eXhhcnF6NHo4" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="45" alt="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ktsrqsdev/" target="_blank">
