@@ -65,11 +65,6 @@ I am a recent Information Technology graduate who is currently very passionate a
   <img src="https://github.com/ktsrqsdev/ktsrqsdev/blob/main/logo-white.png" width="30%" style="max-width: 500px;" alt="KDev Logo">
 </div>
 
-<br>
-
-<div align="center">
-  <i>"Good design is obvious. Great design is transparent."</i>
-</div>
 
 ---
 
