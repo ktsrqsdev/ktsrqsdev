@@ -7,7 +7,7 @@
 
 <div align="center">
   <h2>Hi, I'm <i>KDev</i> 👋</h2>
-  <p><b>Web Developer | Brand & Logo Designer</b></p>
+  <p><b>Web Developer</b></p>
   
   <!-- Social Media Links -->
   <a href="https://www.instagram.com/ktsrqs_?igsh=cHB2eXhhcnF6NHo4&igsi=cHB2eXhhcnF6NHo4" target="_blank">
