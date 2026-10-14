@@ -11,11 +11,11 @@
   
   <!-- Social Media Links -->
   <a href="https://www.instagram.com/ktsrqs_?igsh=cHB2eXhhcnF6NHo4&igsi=cHB2eXhhcnF6NHo4" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="45" alt="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" width="35" alt="Instagram">
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ktsrqsdev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="35" alt="LinkedIn">
   </a>
 </div>
 
